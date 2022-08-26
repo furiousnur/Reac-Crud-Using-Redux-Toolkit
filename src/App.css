@@ -76,7 +76,7 @@ input{
 }
 
 footer{
-  background-color: antiquewhite;
+  background-color: rgba(171, 91, 0, 0.62);
   height: 5vh;
   display: flex;
   justify-content: center;
